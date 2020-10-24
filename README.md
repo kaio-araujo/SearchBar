@@ -1,6 +1,6 @@
 # SearchBar
 
-SwiftUI Custom SearchBar with DropDpwn Results.
+SwiftUI Custom SearchBar with DropDown Results.
 
 Used:
   - XCode 12 
